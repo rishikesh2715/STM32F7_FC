@@ -1,4 +1,4 @@
-# STM32F7_FC
+# STM32F7_Based_FLight-controller
 STM32F722RET6 Based Flight Controller with ICM-42688-P IMU, BMP388 Barometer, and much more!
 
 Detailed Specification:
