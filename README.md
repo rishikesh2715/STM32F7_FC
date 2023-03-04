@@ -16,4 +16,4 @@ Connectors:
 - 3 SPIs
 - 1 I2C
 
-This flight controller is directly flashable and configurale via BetaFlight. Make sure to flash the FC with custom CLI file named "IRS_CLI"
+This flight controller is directly flashable and configurale via BetaFlight. Make sure to flash the FC with custom CLI file named "IRS_CLI". There is a official tutorial on youtube on how to flash a custom flight controller with a custom cli file.
