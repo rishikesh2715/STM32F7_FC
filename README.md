@@ -1,7 +1,9 @@
 # I am going to be working on a new design of this flight controller.
 
--- Removing AT7456E based analog OSD and CVBS routing.
--- Targeting modern digital FPV systems.
+- Removing AT7456E based analog OSD and CVBS routing.
+- Targeting modern digital FPV systems.
+- Feel free to recommend any changes you wanna see. Just open an issue.
+
 
 Hoping to have the new hardware done next month if life chills out. 
 
