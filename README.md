@@ -1,3 +1,13 @@
+# I am going to be working on a new design of this flight controller.
+
+-- Removing AT7456E based analog OSD and CVBS routing.
+-- Targeting modern digital FPV systems.
+
+Hoping to have the new hardware done next month if life chills out. 
+
+on the real tho, losing your side link hurts wayyy more than your main girl.
+
+
 # STM32F7_Based_FLight-controller
 STM32F722RET6 Based Flight Controller with ICM-42688-P IMU, BMP388 Barometer, and much more!
 
